@@ -15,5 +15,5 @@ After autonomous navigation performed successfully, integrated pedestrian detect
 
 ## Requirements
 
-Software: ROS, pytorch, ZED SDK, CUDA
+Software: ROS, pytorch, ZED SDK, CUDA  
 Hardware: Jetson Orin (compute platform), GNSS Receiver, ZED 2i camera.

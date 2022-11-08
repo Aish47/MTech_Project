@@ -1,7 +1,5 @@
 # Training YOLO on merged dataset
 
-## Merged dataset
-
 Merged the three datasets datasets into more robust dataset and pre-processing of dataset performed.
 
 Merged Dataset: (Dataset M)  
@@ -13,6 +11,8 @@ Merged Dataset with Augmentation: (Dataset MA)
 * 2279 images 
 * Augmentation Techniques: Horizontal Flip, Brightness, grayscale.
 
+Yolov5 model trained on these two dataset, to get a more robust model for different distribution dataset.
+
 ## Performance metrics
 
 | Model name    | Dataset       | Training    | Validation    | Num Class  | Precision  | Recall    | mAP@0.5   |
@@ -22,8 +22,8 @@ Merged Dataset with Augmentation: (Dataset MA)
 
 ## Observation
 
-* Model 4 and 5 give the perfromance when trained on more robust distribution of dataset. The models have slight dip in performance compared to Exp 1. 
-* Data Augmentation performed and trained on this dataset - performacne improved.
+* Model 4 and 5 perfromance shown above when trained on more robust distribution of dataset. The models have slight dip in performance compared to Exp 1. 
+* Data Augmentation performed and trained on this dataset - performance improved.
 * Model 5 is able to detect marked speed bumps but still there is problem in detecting some unmarked speed bumps.
 * The number of false detection or misclassification is comparatively less compared to Exp 1 models.
 

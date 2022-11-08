@@ -1,4 +1,4 @@
-# Training YOLOv5 separateley on three datasets
+# Training YOLOv5 separatly on three datasets
 
 ## Dataset Descriptions
 

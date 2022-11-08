@@ -26,6 +26,8 @@ Yolov5 model trained on these two dataset, to get a more robust model for differ
 * Data Augmentation performed and trained on this dataset - performance improved.
 * Model 5 is able to detect marked speed bumps but still there is problem in detecting some unmarked speed bumps.
 * The number of false detection or misclassification is comparatively less compared to Exp 1 models.
+* Crosswalk is being misclassified as speed bump.
+* Light and weather condition leading to false detections.
 
 ## Future Work
 

@@ -2,9 +2,9 @@
 
 ## Dataset Descriptions
 
-Mendeley:  467 images containing both marked and unmarked speed bumps. (Around Coimbatore)
-Kaggle:  2932 images containing both marked and unmarked speed bumps. (Tamil Nadu)
-IIT Kgp: 1889 images containing marked speed bumps. (Inside IIT Kgp campus)
+Mendeley :  467 images containing both marked and unmarked speed bumps. (Around Coimbatore)  
+Kaggle :  2932 images containing both marked and unmarked speed bumps. (Tamil Nadu)  
+IIT Kgp : 1889 images containing marked speed bumps. (Inside IIT Kgp campus)  
 
 Observation:  
 

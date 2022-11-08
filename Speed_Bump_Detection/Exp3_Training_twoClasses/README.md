@@ -27,11 +27,14 @@ Yolov5 model trained on these two dataset, to check if it improves the detection
 
 * Model 7 has slight improvement in performance compared to when trained as one class. 
 * Unmarked speed bumps are now detected with more confidence.
-* False detection rate has decreased.
-* Model 7 gives the best detection results compared to all other previous models.
+* Model 7 gives the better detection results compared to all other previous models.
+* False detection rate has decreased. But misclassification is still present as shadows get detected as unmarked speed bump.
+* Crosswalk is being misclassified as speed bump.
+* Light and weather condition leading to false detections.
 
 ## Future Work
 
-* There is still lot of scope for performance improvement. 
-* Dataset collection going on in and around the campus to get a more local distribution of dataset.
-* Perform next experiment with bigger DNN.
+* There is still lot of scope for performance improvement.
+* A more inclusive dataset required which includes crosswalk, lane lines, speed bump, different weather and light conditions. 
+* The wide variety of speed bump and small dataset proving to be challenge.
+* Working on Stereo Vision based speed bump detection, as a depth map can better differentiate bump in road irrespective of marking on speed bump.

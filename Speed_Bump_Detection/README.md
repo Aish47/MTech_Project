@@ -18,9 +18,9 @@ Hardware: Jetson Orin
 
 ## Experiments
 
-As YOLOv5 is giving accurate real-time object detection which is essential for Autonomous vehicles, so used pre-trained model to train the last few layers on speed bump dataset.
+As YOLOv5 is giving accurate real-time object detection which is essential for Autonomous vehicles, so used pre-trained model to train the last few layers on speed bump dataset. 
 
-* Exp 1 :   
+* Exp 1 :     
 Trained YOLO model on above three datasets. The models were overfitting on these datasets. Understood   the challenges in detecting speed bump.
 * Exp 2 :   
 Pre-processing of the dataset to clean the dataset and merged all three datasets - trained yolov5. This trained model was giving decent performance even on different distribution. Marked speed bump detection imporved, but unmarked speed bumps were not recognised. Feature difference could be the problem.

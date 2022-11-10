@@ -7,7 +7,7 @@ Detect pedestrian using Deep Learning Model and estimate its depth using single 
 * Pedestrian detection is performed using YOLO v5 algorithm.
 * A region of interest is considered as shown by the blue lines in Fig 1. Pedestrian is detected only if it is present inside this region.
 
-![fig1](https://github.com/Aish47/MTech_Project/blob/main/Stereo_Vision_Camera/MonoCam_DepthEstimation/fig1.png=250x250)  
+![fig1](https://github.com/Aish47/MTech_Project/blob/main/Stereo_Vision_Camera/MonoCam_DepthEstimation/fig1.png =500x500)  
 
 * When the pedestrian is inside the region of interest and the distance is less than a certain threshold, command is sent to vehicle actuators to reduce speed to 0.
 

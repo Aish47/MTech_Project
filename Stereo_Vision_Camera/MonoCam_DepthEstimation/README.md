@@ -1,6 +1,6 @@
 # Pedestrian detection and Depth Estimation using Single Camera
 
-Detect pedestrian using Deep Learning Model and estimate its depth using single camera. The depth information is used to perfrom braking action of the vehicle.
+Detect pedestrian using Deep Learning Model and estimate its depth using single camera. The depth information is used to perfrom braking action of the vehicle. This was a simple method to understand how algorithm can be implemented to actuate the vehicle. A more robust method will be explored with stereo vision system.
 
 ## Description
 
@@ -19,4 +19,7 @@ Detect pedestrian using Deep Learning Model and estimate its depth using single 
 * Distance threshold given = 6m<br>  
 * Vehicle Stopped at 3.5m<br>  
 * Actual measurement = 3.7m<br>  
-* Even with single camera able to get good results for distance estimation with 	error within ±  0.4m.<br>
+* Even with single camera able to get good results for distance estimation with error within ±  0.4m.<br>
+
+
+

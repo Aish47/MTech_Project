@@ -3,10 +3,10 @@
 1. Callibration:  
 Performed camera calibration so as to remove distortions from the image.
 
-2. Mono Camera based Depth estimation
+2. Mono Camera based Depth estimation:  
 Depth estimation using single camera of the detected objects (Pedestrian). Tested the algorithm along with vehicle actuation. 
 
-3. Stereo Camera based Depth estimation
+3. Stereo Camera based Depth estimation:  
 Depth estimation using ZED 2i stereo camera. Tested the algorithm along with vehicle actuation and also performed brake test when pedestrian detected.
 
 

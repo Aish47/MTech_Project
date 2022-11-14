@@ -13,6 +13,14 @@ GNSS Receiver:   GPS latitude, longititude and IMU heading angle
 
 After autonomous navigation performed successfully, integrated pedestrian detection and depth estimation. This will perform braking action when pedestrian detected along the navigation path.
 
+## Results
+
+Below shows the testing of Autonomous Navigation along with Pedestrian detection that was implemented in the vehicle
+
+<p align="center" width="70%">
+    <img width="33%" src="https://github.com/Aish47/MTech_Project/blob/main/Stereo_Vision_Camera/MonoCam_DepthEstimation/fig1.png">    
+</p>
+
 ## Requirements
 
 Software: ROS, pytorch, ZED SDK, CUDA  

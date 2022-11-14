@@ -18,7 +18,7 @@ After autonomous navigation performed successfully, integrated pedestrian detect
 Below shows the testing of Autonomous Navigation along with Pedestrian detection that was implemented in the vehicle
 
 <p align="center" width="70%">
-    <img width="33%" src="https://github.com/Aish47/MTech_Project/blob/main/Stereo_Vision_Camera/MonoCam_DepthEstimation/fig1.png">    
+    <img width="33%" src="https://github.com/Aish47/MTech_Project/blob/main/GPS_Autonomous_Navigation/nav_gif.gif">    
 </p>
 
 ## Requirements

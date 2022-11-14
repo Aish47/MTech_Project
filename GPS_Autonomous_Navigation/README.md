@@ -17,3 +17,5 @@ After autonomous navigation performed successfully, integrated pedestrian detect
 
 Software: ROS, pytorch, ZED SDK, CUDA  
 Hardware: Jetson Orin (compute platform), GNSS Receiver, ZED 2i camera.
+
+**Codes for the project above have not been uploaded as the research is still ongoing.
